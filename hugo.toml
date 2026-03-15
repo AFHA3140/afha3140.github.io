@@ -1,9 +1,7 @@
-
 theme = 'hugo-brewm'
 enableGitInfo = true
+disableKinds = ['rss']
 
 [author]
-name = "Andrés Felipe Hurtado Agudelo"
-email = "tucorreo@example.com"
-
-disableKinds = ['rss']
+  name = "Andrés Felipe Hurtado Agudelo"
+  email = "andfelhu@gmail.com"
