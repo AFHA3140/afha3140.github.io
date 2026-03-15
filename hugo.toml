@@ -1,8 +1,10 @@
 theme = 'hugo-brewm'
 enableGitInfo = true
 disableKinds = ['rss']
-mainSections = ['posts']
 
 [author]
   name = "Andrés Felipe Hurtado Agudelo"
   email = "andfelhu@gmail.com"
+
+[params]
+  mainSections = ['posts']
