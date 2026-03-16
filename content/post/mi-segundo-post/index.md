@@ -6,6 +6,8 @@ tags: ["diario", "reflexión", "GitHub Pages", "escritura", "tecnología", "Soft
 importance: 4
 ---
 
+![GitHubPages](git.jpg)
+
 ## Sobre este diario. La elección de GitHub Pages como medio
 
 Técnicamente no es una proeza. Como es evidente, es un GitHub Pages ayudado y asistido por
@@ -25,12 +27,12 @@ que por falta de mantenimiento; otros por políticas de WordPress. Eso me llevó
 si uno hace esto, es porque quiere permanencia, registro, ideas que de alguna manera pueden
 ver otras personas. Estar pagando después de ya no estar no es viable, ni tampoco quiero
 estar sujeto a las políticas de una compañía. GitHub en principio ofrece un almacenamiento
-"para siempre".
+**"para siempre"**.
 
 Con eso en mente, la decisión entonces estaba entre Git y Amazon Cloud; digamos que la
 diferencia no era mucha para configurar la página. Como el tiempo es el limitante, decidí Git,
 aunque ahora me doy cuenta de que no era tan diferente y que Amazon si ofrece más almacenamiento. Pero ya le dediqué un fin de semana
-entero solo a esto. Sí, algo que a un programador le tomaría menos de una hora.
+entero solo a esto. _Sí, algo que a un programador le tomaría menos de una hora_.
 
 También está el asunto de que es un reto y poder conseguirlo, como un artesano que hace algo
 con sus propias manos, paso a paso. Y... no, mentiras: ninguna satisfacción en saber que la
